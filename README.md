@@ -14,7 +14,7 @@
 ## Установка
 
 1. Клонируйте репозиторий:
-     git clone https://github.com/yourusername/my-web-app.git
+     git clone https://github.com/Murasami08/FullstackNpc.git
    cd my-web-app
 
 2. Установите зависимости для серверной части:
